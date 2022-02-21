@@ -87,7 +87,7 @@ const MoodTracker = () => {
             </p>
             <p>
               I have some ideas to get this application more useful and
-              user-friendly so if you think you can help me text me.
+              user-friendly so if you think you can help me contact me.
             </p>
             <p>Feel free to contact me: </p>
             <a href="https://twitter.com/Hanie_Asemi">
