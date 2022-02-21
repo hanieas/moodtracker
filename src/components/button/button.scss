@@ -1,0 +1,24 @@
+$fuschia: #ff0081;
+$button-bg: $fuschia;
+$button-text-color: #fff;
+
+.submit-button {
+  content: "rrr";
+  display: inline-block;
+  font-size: 1em;
+  padding: 1em 2em;
+  background-color: $button-bg;
+  color: $button-text-color;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 2px 25px rgba(255, 0, 130, 0.5);
+  margin: 20px auto;
+  width: 100%;
+  justify-content: center;
+}
+
+.submit-button:disabled {
+  opacity: 0.5;
+  padding: 0.5em;
+}

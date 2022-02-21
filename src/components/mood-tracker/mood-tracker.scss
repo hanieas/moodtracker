@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+header {
+  padding-bottom: 1em;
+  border-bottom: 1px solid #cccc;
+  text-align: center;
+  color: #1a1a1b;
+  display: flex;
+  justify-content: space-between;
+}
+
+header svg {
+  transform: translateY(40%);
+  cursor: pointer;
+}
+header h1 {
+  margin:0;
+}
+
+.info-section svg{
+  cursor: pointer;
+  margin-right:1em;
+}
