@@ -47,8 +47,8 @@ const FacePainter = (props: IFacePainterProps) => {
       canvas.height = height * scale;
       ctx.scale(scale, scale);
       ctx.beginPath();
-      ctx.moveTo(50, 40);
-      ctx.quadraticCurveTo(150, lipState, 250, 40);
+      ctx.moveTo(50, SLIDER.MID);
+      ctx.quadraticCurveTo(150, lipState, 250, SLIDER.MID);
       ctx.lineWidth = 2;
       ctx.stroke();
     };
