@@ -8,6 +8,5 @@ I have some ideas to get this application more useful and user-friendly so if yo
 
 
 
-
-https://user-images.githubusercontent.com/26707806/155010560-01a07ec1-dafd-4f03-85a6-5a81f88d5979.mov
+https://user-images.githubusercontent.com/26707806/155011638-3c4ddae2-64bf-493d-a13a-def41e105a72.mp4
 
