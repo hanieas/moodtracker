@@ -82,7 +82,7 @@ const MoodTracker = () => {
             </p>
             <p>
               You can use this application too and share your experience with
-              me. It's open-source, and you are welcome to look at the code and
+              me. It's open-source, and you are welcome to look at the <a href="https://github.com/hanieas/moodtracker">code</a> and
               report any ideas or bugs.
             </p>
             <p>
